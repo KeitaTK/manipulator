@@ -1,1 +1,0 @@
-cc -o test-com test-com.c kbhit.c
